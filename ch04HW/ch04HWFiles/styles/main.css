@@ -1,0 +1,34 @@
+body {
+    font: 100%, sans-serif;
+    margin-left: 2em;
+    margin-right: 2em;}
+
+header {
+    padding-bottom: .75em;
+    margin-bottom: 0;
+    font-size: 150%;}
+
+img {
+    float: left;
+    margin-right: 2em;}
+
+header h2 {
+    font-style: italic;
+    color: orange;
+    text-shadow: 4px 4px 10px black;}
+
+h1, h3 {font: bold 150%;}
+
+main h1:first-letter {font-size: 180%;}
+
+a:link {
+    color: orange;
+    font-weight: bold;}
+
+a:hover, a:focus {color: limegreen;}
+
+main li {line-height: 25pt;}
+
+footer {
+    font-size: 80%; 
+    text-align:center}
